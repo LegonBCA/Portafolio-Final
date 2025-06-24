@@ -269,7 +269,7 @@ $result = $stmt->get_result();
                             <i class="fas fa-users"></i>
                         </div>
                         <!-- Número estático -->
-                        <div class="stat-number">3+</div>
+                        <div class="stat-number">2+</div>
                         <div class="stat-label">Años</div>
                         <div class="stat-description">Estudiando Informática</div>
                     </div>
@@ -522,8 +522,8 @@ $result = $stmt->get_result();
                                 </div>
                                 <!-- Título del método de contacto -->
                                 <h5 class="contact-title">Email</h5>
-                                <!-- Información de contacto (email placeholder) -->
-                                <p class="contact-info">contacto@miportafolio.com</p>
+                                <!-- Información de contacto (email actualizado) -->
+                                <p class="contact-info">bcontreras2024@alu.uct.cl</p>
                             </div>
                         </div>
                         <!-- Tarjeta 2: Teléfono -->
@@ -534,8 +534,8 @@ $result = $stmt->get_result();
                                     <i class="fas fa-phone"></i>
                                 </div>
                                 <h5 class="contact-title">Teléfono</h5>
-                                <!-- Número de teléfono placeholder -->
-                                <p class="contact-info">+1 (555) 123-4567</p>
+                                <!-- Número de teléfono actualizado -->
+                                <p class="contact-info">+56 9 73886419</p>
                             </div>
                         </div>
                         <!-- Tarjeta 3: Ubicación -->
@@ -546,8 +546,8 @@ $result = $stmt->get_result();
                                     <i class="fas fa-map-marker-alt"></i>
                                 </div>
                                 <h5 class="contact-title">Ubicación</h5>
-                                <!-- Ubicación placeholder -->
-                                <p class="contact-info">Ciudad, País</p>
+                                <!-- Ubicación actualizada -->
+                                <p class="contact-info">Temuco, Chile</p>
                             </div>
                         </div>
                     </div>
