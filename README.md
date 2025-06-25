@@ -2,6 +2,10 @@
 
 Un sistema completo de gestión de portafolio desarrollado en PHP con MySQL, que incluye **API REST propia**, sistema CRUD completo, autenticación segura y despliegue en producción. Diseñado para cumplir con los requisitos del Proyecto Integrado Final de Diseño y Desarrollo Web + IA.
 
+
+
+## DEMO DE PORTAFOLIO-FINAL
+https://teclab.uct.cl/~benjamin.contreras/PortafolioFin/index.php
 ## 📋 Tabla de Contenidos
 
 - [Características](#-características)
